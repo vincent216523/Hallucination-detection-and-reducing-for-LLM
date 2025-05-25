@@ -1,0 +1,5 @@
+*.pyc
+/.cache
+/.vscode
+/data/trivia_qa
+/result/gen1
